@@ -1,0 +1,27 @@
+[
+	{
+		"file": "C:\\Users\\ihsan\\Documents\\Unreal Projects\\RunBoyRunMain\\RunBoyRunMain\\Source\\RunBoyRunMain\\MovingPlatform.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\ihsan\\Documents\\Unreal Projects\\RunBoyRunMain\\RunBoyRunMain\\.vscode\\compileCommands_RunBoyRunMain\\RunBoyRunMain.205.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\ihsan\\Documents\\Unreal Projects\\RunBoyRunMain\\RunBoyRunMain\\Source\\RunBoyRunMain\\MovingPlatform.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\ihsan\\Documents\\Unreal Projects\\RunBoyRunMain\\RunBoyRunMain\\.vscode\\compileCommands_RunBoyRunMain\\RunBoyRunMain.205.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\ihsan\\Documents\\Unreal Projects\\RunBoyRunMain\\RunBoyRunMain\\Source\\RunBoyRunMain\\RunBoyRunMain.Build.cs",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\ihsan\\Documents\\Unreal Projects\\RunBoyRunMain\\RunBoyRunMain\\.vscode\\compileCommands_RunBoyRunMain\\RunBoyRunMain.205.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\ihsan\\Documents\\Unreal Projects\\RunBoyRunMain\\RunBoyRunMain\\Source\\RunBoyRunMain\\RunBoyRunMain.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\ihsan\\Documents\\Unreal Projects\\RunBoyRunMain\\RunBoyRunMain\\.vscode\\compileCommands_RunBoyRunMain\\RunBoyRunMain.205.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\ihsan\\Documents\\Unreal Projects\\RunBoyRunMain\\RunBoyRunMain\\Source\\RunBoyRunMain\\RunBoyRunMain.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\ihsan\\Documents\\Unreal Projects\\RunBoyRunMain\\RunBoyRunMain\\.vscode\\compileCommands_RunBoyRunMain\\RunBoyRunMain.205.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	}
+]

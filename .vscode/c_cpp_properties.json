@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "RunBoyRunMainEditor Editor Win64 Development (RunBoyRunMain)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\ihsan\\Documents\\Unreal Projects\\RunBoyRunMain\\.vscode\\compileCommands_RunBoyRunMain.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        },
+        {
+            "name": "Win32",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\ihsan\\Documents\\Unreal Projects\\RunBoyRunMain\\.vscode\\compileCommands_Default.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
